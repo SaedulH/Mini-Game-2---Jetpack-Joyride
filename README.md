@@ -12,7 +12,7 @@ A Jetpack Joyride-style game built in Unity Engine as a follow-up mini project t
 Press or Hold Space/Left Click to propel the player upwards, avoid obstacles and collect coins for as long as possible.
 
 Clone and build this project in Unity to Play:
-### 'https://github.com/SaedulH/Mini-Game-2---Jetpack-Joyride.git'
+### `https://github.com/SaedulH/Mini-Game-2---Jetpack-Joyride.git`
 
 <img src="./Assets/Gifs/JetpackJoyrideGameplayGIF.gif" width="800"/> 
 
